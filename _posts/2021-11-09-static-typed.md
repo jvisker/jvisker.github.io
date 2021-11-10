@@ -1,0 +1,3 @@
+## Statically Typed Languages
+
+TODO:
